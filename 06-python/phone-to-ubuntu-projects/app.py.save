@@ -1,0 +1,10 @@
+# ඔයා දැන් ඉන්නේ 06-python එක ඇතුලේ නේ?
+
+# 1. Phone Projects ටිකට Folder එකක් හදමු
+mkdir phone-to-ubuntu-projects
+cd phone-to-ubuntu-projects
+
+# 2. Project 6 එක (Kaggle Model එක) හදමු
+nano app.py# 3. Run කරලා බලන්න
+python3 app.py
+
